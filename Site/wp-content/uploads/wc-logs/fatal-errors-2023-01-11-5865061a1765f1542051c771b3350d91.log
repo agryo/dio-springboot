@@ -1,0 +1,6 @@
+2023-01-11T01:18:30+00:00 CRITICAL Uncaught TypeError: Illegal offset type in isset or empty in /var/www/html/wp-admin/includes/class-plugin-upgrader.php:323
+Stack trace:
+#0 /var/www/html/wp-admin/update.php(51): Plugin_Upgrader->bulk_upgrade()
+#1 {main}
+  thrown, em /var/www/html/wp-admin/includes/class-plugin-upgrader.php, na linha 323
+

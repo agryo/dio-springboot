@@ -1,0 +1,20 @@
+2023-01-08T04:59:07+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_63ba4d9b53401httpsagryocruzetacombrwp-admin","smb_name":"PROD","redirect_url":"https:\/\/agryo.cruzeta.com.br\/wp-admin\/"}
+ ajax: DOING_AJAX
+2023-01-08T04:59:07+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 60: SSL: no alternative certificate subject name matches target host name 'ads.tiktok.com'
+
+2023-01-08T04:59:08+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 60: SSL: no alternative certificate subject name matches target host name 'ads.tiktok.com'
+
+2023-01-08T04:59:08+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 60: SSL: no alternative certificate subject name matches target host name 'ads.tiktok.com'
+
+2023-01-08T04:59:08+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 60: SSL: no alternative certificate subject name matches target host name 'ads.tiktok.com'
+
