@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 public class ConversorJson {
     @Autowired
     private Gson gson;
-    public ViaCepResponse converter(String json ){
+    public ViaCepResponse converter(String json){
         ViaCepResponse response = gson.fromJson(json, ViaCepResponse.class);
         return response;
     }
